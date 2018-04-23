@@ -1,11 +1,11 @@
 version: '3.3'
 services:
   backend:
-    image: dto80/se234-lab11-backend:latest
+    image: meandthefirefly/se234-lab11-backend:latest
     ports:
       - "8084:8080"
   frontend:
-    image: dto80/se234-lab11-client:latest
+    image: meandthefirefly/se234-lab11-client:latest
     ports:
       - "8085:80"
 
