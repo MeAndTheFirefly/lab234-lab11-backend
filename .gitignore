@@ -66,7 +66,7 @@ local.properties
 .texlipse
 
 
-# Code Recommenders
+# Code Recommenders I
 .recommenders/
 
 # Scala IDE specific (Scala & Java development for Eclipse)
