@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   backend:
-    image: meandthefirefly/lab234-lab11-backend:latest
+    image: meandthefirefly/234-lab11:latest
     ports:
       - "8084:8080"
   frontend:
