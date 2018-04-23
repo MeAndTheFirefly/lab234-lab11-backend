@@ -21,7 +21,7 @@ public class StudentServiceImpl implements StudentService {
                 return student;
             }
         }
-        return null;
+        throw new NoDataException();
     }
 
     @Override
