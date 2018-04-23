@@ -85,3 +85,5 @@ libCheck.py
 #logfile
 
 ky-logs/**
+
+src/\.DS_Store
